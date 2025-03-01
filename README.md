@@ -3,6 +3,6 @@
 ## required packages
 
 ```bash
-pip install sounddevice numpy requests vosk
+pip install sounddevice numpy requests vosk piper-tts
 ```
 
